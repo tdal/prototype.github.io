@@ -1,6 +1,6 @@
 ## Welcome to the WSJ Training archive
 
-On this page you can find all past and upcoming newsroom training sessions. 
+On this page you can find all past and upcoming newsroom training sessions, additional training materials and session recordings. 
 
 ### Markdown
 
